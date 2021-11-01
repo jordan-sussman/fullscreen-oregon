@@ -1,6 +1,6 @@
 ## READ ME
 
-**Fullscreen Oregon** is a responsive fullscreen video webpage concept that showcases Oregon to would-be travelers.
+**Fullscreen Oregon** is a responsive fullscreen video webpage concept that showcases Oregon to travelers.
 
 Preview:
 ![](/img/website.gif)
